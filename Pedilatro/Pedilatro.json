@@ -1,0 +1,22 @@
+{
+  "id": "Pedilatro",
+  "name": "Pedilatro",
+  "display_name": "Pedilatro",
+  "author": ["Pediluves"],
+  "description": "i <3 gambling",
+  "prefix": "petro",
+  "main_file": "Pedilatro.lua",
+  "priority": 0,
+  "badge_colour": "A1A6F0",
+  "badge_text_colour": "000000",
+  "version": "0.0.1",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0614a)"
+  ],
+  "conflicts": [
+
+  ],
+  "provides": [
+
+  ]
+}
