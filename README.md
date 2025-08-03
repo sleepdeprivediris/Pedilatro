@@ -77,7 +77,10 @@ Estrogen
 [Turns 1 Joker Transgender, -1 discard]
 
 ### Enhancement:
- none yet. i need to learn how to make shaders,,,
+none yet.
+
+### Editions:
+none yet. i need to learn how to make shaders,,,
 
 ### Stickers:
 Sogged
