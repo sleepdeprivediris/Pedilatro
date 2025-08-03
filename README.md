@@ -92,6 +92,10 @@ Dry
 Transgender
 [Swap all values on card: Mult becomes Chips, Chips becomes Mult]
 
+### Decks:
+Sample Deck:
+All sample jokers are free! But you start with no face cards and no aces
+
 ### Misc. Ideas:
 
 ## Split Cards:
@@ -108,7 +112,7 @@ Enhancement may be kept but halved if I managed to code that shit.
 
 ## Sample Packs:
 
-New type of jokers !
+New type of jokers and booster packs !
 Sample Jokers are less powerful version of already existing Jokers, BUT the catch is that they can appear multiple times in the shop!
 They may or may not take 0.5 of a Joker Slot but I'm not sure yet.
 Useful for early game.
