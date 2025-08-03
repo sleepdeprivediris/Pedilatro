@@ -7,7 +7,7 @@ This mod adds :
 
 ![Additions](https://i.imgur.com/lfluPPf.png)
 
-Last updated, July 13th
+Last updated, 3rd of August
 
 ## PLANNED CONTENT:
 
