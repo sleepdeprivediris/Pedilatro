@@ -21,11 +21,11 @@ E, Le Rap
 🟩
 [If played hand contains a Straight, add one to the rank of all played cards]~~
 
-~~ Sal2B1
+~~Sal2B1
 🟥
 [Gains x0.5 mult per Fursuit sold]~~
 
-~~ K-Pri$un
+~~K-Pri$un
 🟥
 [1/10 of creating a Negative soul after beating a Blind]~~
 
@@ -41,11 +41,11 @@ Mimic
 🟦
 [+69 chips]~~
 
-Will Wood
+~~Will Wood
 🟥
 [Swap Chips and Mult,
   1/2 chance of x1.5 Chips,
-  1/2 chance of x1.5 Mult]
+  1/2 chance of x1.5 Mult]~~
 
 StarWalker
 🟥
