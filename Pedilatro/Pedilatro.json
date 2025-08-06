@@ -11,7 +11,10 @@
   "badge_text_colour": "000000",
   "version": "0.0.1",
   "dependencies": [
-    "Steamodded (>=1.0.0~BETA-0614a)"
+    "Steamodded (>=1.0.0~BETA-0711a)",
+    "Cryptid (>=0.5.10)",
+    "Lovely (>=0.8)",
+    "Talisman (>=2.3.1)"
   ],
   "conflicts": [
 
