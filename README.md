@@ -2,12 +2,13 @@
 # **PEDILATRO**
 
 *A Balatro mod made for me and my friends, not really meant for the public but I'm free do to whatever I want so here it is.*
+*THIS IS ALSO MY FIRST TIME CODING IN ANY OTHER LANGUAGE THAN HTML AND CSS*
 
 This mod adds :
 
 ![Additions](https://i.imgur.com/lfluPPf.png)
 
-Last updated, 3rd of August
+Last updated, 7rd of August
 
 ## PLANNED CONTENT:
 
@@ -33,9 +34,9 @@ Pediluves
 🟪
 [ReTriggers every joker once per 5$ you have]
 
-Mimic
+~~M2
 🟩
-[1/2 chance of copying the joker on its right, 1/2 chance of destroying it]
+[Copies the joker on its right, 1/4 chance of destroying it]~~
 
 ~~Fursuit
 🟦
@@ -47,9 +48,9 @@ Mimic
   1/2 chance of x1.5 Chips,
   1/2 chance of x1.5 Mult]~~
 
-StarWalker
+~~StarWalker
 🟥
-[Randomly skips a blind (not boss blinds), with his iconic catchphrase]
+[Randomly skips a blind, with his iconic catchphrase]~~
 
 JohnCrypto
 🟥
