@@ -4,6 +4,7 @@
 *A Balatro mod made for me and my friends, not really meant for the public but I'm free do to whatever I want so here it is.*
 *THIS IS ALSO MY FIRST TIME CODING IN ANY OTHER LANGUAGE THAN HTML AND CSS*
 
+This mod requires Lovely Injector, Steamodded, Cryptid and Talisman
 This mod adds :
 
 ![Additions](https://i.imgur.com/lfluPPf.png)
@@ -96,6 +97,13 @@ Transgender
 ### Decks:
 Sample Deck:
 All sample jokers are free! But you start with no face cards and no aces
+
+### Code Cards:
+GRUB:
+Choose a new deck!
+
+Factory Reset:
+Return to Ante 1, lose your jokers, your consumables, but get all of your money back !
 
 ### Misc. Ideas:
 
